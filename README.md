@@ -1,6 +1,6 @@
-# cosmjs-types
+# quadjs-types
 
-[![npm version](https://img.shields.io/npm/v/cosmjs-types.svg)](https://www.npmjs.com/package/cosmjs-types)
+[![npm version](https://img.shields.io/npm/v/quadjs-types.svg)](https://www.npmjs.com/package/quadjs-types)
 
 ## Maintenance
 

@@ -18,6 +18,7 @@ node_modules/
 /helpers.*
 /index.*
 /proofs.*
+/ethermint/
 
 # IDEs
 .vscode/

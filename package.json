@@ -1,6 +1,6 @@
 {
-  "name": "cosmjs-types",
-  "version": "0.8.0-alpha.1",
+  "name": "@quadrateorg/quadjs-types",
+  "version": "0.1.0",
   "description": "JS and TS types relating to Protocol Buffers used by Cosmos SDK and other related projects",
   "contributors": [
     "Simon Warta <webmaster128@users.noreply.github.com>",
@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/confio/cosmjs-types"
+    "url": "https://github.com/QuadrateOrg/quadjs-types"
   },
   "publishConfig": {
     "access": "public"
@@ -22,6 +22,7 @@
     "gogoproto/",
     "google/",
     "ibc/",
+    "ethermint/",
     "tendermint/",
     "/helpers.*",
     "/index.*",
