@@ -1,6 +1,6 @@
 # quadjs-types
 
-[![npm version](https://img.shields.io/npm/v/quadjs-types.svg)](https://www.npmjs.com/package/quadjs-types)
+[![npm version](https://img.shields.io/npm/v/@quadrateorg/quadjs-types.svg)](https://www.npmjs.com/package/@quadrateorg/quadjs-types)
 
 ## Maintenance
 
