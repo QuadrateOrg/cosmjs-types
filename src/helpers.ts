@@ -72,6 +72,13 @@ export function omitDefault<T extends string | number | Long>(input: T): T | und
   throw new Error(`Got unsupported type ${typeof input}`);
 }
 
+export function longToNumber(long: Long): number {
+  if (long.gt(Number.MAX_SAFE_INTEGER)) {
+    throw new globalThis.Error("Value is larger than Number.MAX_SAFE_INTEGER");
+  }
+  return long.toNumber();
+}
+
 interface Duration {
   /**
    * Signed seconds of the span of time. Must be from -315,576,000,000
