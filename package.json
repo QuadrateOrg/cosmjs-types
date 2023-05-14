@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/QuadrateOrg/quadjs-types"
+    "url": "https://github.com/QuadrateOrg/cosmjs-types"
   },
   "publishConfig": {
     "access": "public"
